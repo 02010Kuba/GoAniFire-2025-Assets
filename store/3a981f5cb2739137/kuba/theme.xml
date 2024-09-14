@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="kuba" name="Kuba's World">
+        <background id="1720.swf" name="Mcdonald's"/>
+        <background id="1721.swf" name="Pomni's Restaurant"/>
+        <background id="kubabackground.swf" name="Kuba's Background"/>
+        <background id="busstop.swf" name="Bus Stop"/>
+        <background id="businside.swf" name="Bus Inside"/>
+        <background id="busoutside.swf" name="Bus Outside"/>
+<char id="pomni" name="Pomni" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angrytalk.swf" name="Angry Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angrytalkcrying.swf" name="Angry Talk Crying" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="weegee" name="Weegee" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Super Malleo Bros's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="malleo" name="malleo" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Super Malleo Bros's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="pomni_old" name="Pomni (Old)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="pomni_clone" name="(NEW) Pomni" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="reallifekuba_old" name="Real Life Kuba (Old)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="sad.swf" name="Sad" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="reallifekuba" name="Real Life Kuba" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="sad.swf" name="Sad" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="twomiddlefinger.swf" name="Two Middle Finger" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="middlefinger.swf" name="Middle Finger" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="mpk" name="MPK" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:MPK's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="mpk_new" name="MPK Autobus" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:MPK's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="me" name="Me" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <char id="redbird" name="Red Bird" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
+        <prop id="msp_movie_poster" name="Movie Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="DM4_Tsr1Sht17_RGB_2SM.jpg" enable="Y" is_premium="Y" aid="11350" money="0" sharing="0">
+    <state id="DM4_Tsr1Sht17_RGB_2SM.jpg" name="DM4" enable="Y" default="Y"/>
+    <state id="OIP (5).jpg" name="Inside Out 2" enable="Y"/>
+    <state id="OIP (6).jpg" name="The Kingdom Of The Planet Of The Apes" enable="Y"/>
+    <state id="OIP (7).jpg" name="Kung Fu Panda 4" enable="Y"/>
+    <state id="OIP (8).jpg" name="The Garfield Movie" enable="Y"/>
+    <state id="OIF.jpg" name="TWISTERS" enable="Y"/>
+    <state id="R.jpg" name="Wonka Movie" enable="Y"/>
+  </prop>
+        <prop id="basketball.swf" name="Basketball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <background name="Enterprize Command Room" id="ecr.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Enterprize Teleporter Room" id="etr.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Starfield" id="starfield_test.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Outerspace" id="outerspace.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Star Wars Logo Scroll" id="logoAnimated.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Romulan Bridge" id="romulan_bridge.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="solarbaby" id="solarbaby.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SOLARBABY" id="SOLARBABEY.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Curtain" id="10077947.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old GoAnimate Logo" id="100822332.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Plans And Pricing" id="101679783.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Background One" id="1023.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="On The Moon" id="103887940.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Corrupted Fox Movie Channel" id="104980030.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Spongebob Time Card Later" id="104995475.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Twentith Century Fox" id="105483238.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Super Mario Bros" id="105922500.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old YouTube" id="107378231.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Wedding" id="107549210.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="No Signal" id="109524036.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Opened Curtain" id="109658496.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Twentith Century Fox Classic Movies" id="109857176.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Planet Earth" id="1102996.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Space With Moving Planets" id="1102999.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Mushroom Theatre" id="112131425.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Bowsers Kingdom" id="112284546.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Space" id="113576144.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Pinkie Pie" id="114281214.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old Google Website" id="115177674.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Egypt" id="1155.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Gradient" id="116188865.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="New York City" id="11641524.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Twentith Century Fox" id="118812884.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Space" id="120159996.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nothing" id="121191021.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Some Kind Of an Spongebob Background" id="121803859.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old GoAnimate Videomaker From 2012" id="122208192.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Green Movie Trailer" id="122500560.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Green Hill Zone Pixelated" id="122621144.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Taco Bell" id="122988704.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Chalkboard" id="1238539.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old NickToons" id="124553314.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Background Two" id="124816603.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="THX (SamCraft's Favorite Logo)" id="125212644.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="O Entertainment" id="125714773.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Broken THX Logo" id="125952310.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Paramount Logo 100 Years" id="126047722.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Universal Logo 100 Years" id="126048024.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Eduedu" id="126149064.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Beach" id="126174263.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Create Your Account On YouTube" id="126194754.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Minecraft" id="127017291.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Chuck E Cheese With a Police Car" id="127776581.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Blue Curtains" id="1278.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Eduedu Facebook" id="128281947.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Prison" id="129014229.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Take Two Family" id="129087087.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Living Room" id="129287447.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Wiggles House" id="129287563.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Background Three" id="129288475.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="House" id="129528151.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Christmas Clock Theater" id="129746306.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Stage" id="129747254.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Batman Signal" id="130009818.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="To Be Continued" id="130085938.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="FBI Warning" id="132167197.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="City Sunset" id="133317803.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Mansion" id="1348.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="City In a Neighborhood" id="137042.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Earth" id="137666789.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Chuck E Cheese" id="138841413.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Empty Office Comedy World Room" id="13886435.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Another Paramount Logo" id="139546660.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Farmland" id="14.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Car Back" id="140.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="MLP House" id="144179999.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Moon" id="14533.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Blocks?" id="147765011.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Africa" id="15.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Slenderman" id="153295336.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Slenderman Woods" id="153730072.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Fun House?" id="154578534.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="White House" id="154955.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Crosswalk" id="1556.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Space" id="156404175.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Walt Disney Pictures Classic" id="156441105.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Walt Disney Pictures Moderen" id="157098268.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Playground" id="157152747.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Conference Room Without a Table" id="157542.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Fancy Bedroom" id="15992433.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Explosion" id="1602.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Regular Show Living Room" id="161234110.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Business Tower" id="162028.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Minecraft Hills" id="163429446.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Universal Studio Tour" id="163793729.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Fancy Home (Alexanders House)" id="164811789.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Modern Paramount Logo" id="164837436.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="House" id="165378567.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Klasky Csupo Inc." id="168911803.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Hell" id="169958772.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Kitchen Platform" id="170491560.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Modern Universal" id="170634443.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Red Space" id="17065939.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Background Four" id="1709453.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Imagine Entertainment" id="171147438.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Cartoon Inc" id="171233259.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Strawberrys" id="171389482.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Office Room" id="173508.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Bedroom" id="173510.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Rate It Even If You Hate It" id="17408674.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="MTV" id="17453894.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Google Logo" id="17496337.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Custom Comedy World Background One" id="177222738.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Golf Course" id="177253.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Girl Bedroom" id="177254.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Modern Twentith Century Fox" id="178438358.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Musical Theater Of The Wiggles" id="178495527.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Bathroom Platform" id="179869373.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Bathroom Platform" id="179870461.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Wiggles House" id="180233868.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Centre" id="180261176.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Windows XP" id="182224608.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Cafe" id="182837.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Santa's Home" id="182841.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Two Clouds" id="184524163.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Road" id="1871616.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Spacecraft" id="1896429.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Boy Pointing at The Map" id="189903144.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Cleaners" id="189912257.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Food And Degreasers" id="189912298.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Floor Care" id="189912326.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="City" id="19.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Boy Bedroom" id="190223.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Wiggles Studio" id="190549134.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Drawing Paper" id="200637.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Spaceship Interior" id="20083203.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="House" id="20286009.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Dance Floor" id="20388378.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Theater With Spotlights" id="2060.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Interview Room" id="2084.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Explosion City" id="20866475.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Castle" id="2118325.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="GoAnimate Movie Warning" id="21222630.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The End" id="21337566.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Hotel Room" id="2138.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Hallway" id="216726.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Red Curtain Theater" id="21778992.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Desert" id="2214.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Kitchen" id="22356524.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Medivian Diner" id="22413253.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The End" id="22514114.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Boxing" id="22990890.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="City" id="23822222.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Mars" id="24101868.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="News You Can Use" id="24196335.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Town With Lots Of People" id="24278.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Pikachu" id="244713.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Pokemon" id="244724.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Planets" id="24606355.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Office" id="25348.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Earth" id="25517697.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Firey Planet" id="25573656.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Meadow At The Beach" id="25973.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Simpsons Living Room" id="26158919.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="McDonalds" id="26179034.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Soldiers" id="26872.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Bedroom" id="27468821.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="American Idol" id="27608528.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="WinterTown" id="28016550.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="City Hall" id="28108.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="City" id="28283955.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Path" id="28635.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="New York City" id="29874519.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Forest" id="29957914.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Winter Forest" id="29965.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Background Five" id="29972133.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Background Six" id="29972165.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Earth" id="30441729.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Custom Comedy World Background Two" id="31249669.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Custom Comedy World Background Three" id="31254493.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Clouds" id="31332278.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="War" id="31515167.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Space" id="32358330.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Titanic" id="32521846.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Sky With Clouds" id="152587889.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Green Hill Zone" id="644860.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SolarBaby Logo" id="6102939.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Windows XP Greenlands" id="29950107.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Sun And Planets" id="24606400.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old GoAnimate Studio Videomaker" id="69761418.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old GoAnimate Studio Videomaker" id="69760385.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Super Mario" id="62871811.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Old GoAnimate Studio Upload Video" id="69762893.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="McDonalds" id="49228263.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Lazer Collection" id="49681556.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Shop" id="45516641.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Shop" id="45513979.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="TMAOTCAF" id="The Many Adventure's Of The Creator And Friends.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="GoAniFire Demo Thumbnail" id="GoAniFire Demo Thumbnail Community Library.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Grasslands Night" id="Grasslands_Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Night Clouds" id="Night_Clouds.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="AGK House" id="AGK's House.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Pizza Hut Interior" id="Pizza_Hut_Interior.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Pool" id="Pool.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SamCraft's Bedroom" id="SamCraft_Ten_Bedroom.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SamCraft's Living Room" id="SamCraft_Ten_Living Room.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Townsvile" id="Temecula Townsvile.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Loud House Living Room" id="TheLoudHouseLivingRoom.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="The Andersons House" id="The_Andersons_House.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Forest" id="forest_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Night Mountain" id="night_mountain_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="River" id="river_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Whitehouse" id="whitehouse_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Alexander And Lisa Room" id="Alexander And Lisa Room.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Front Room Day" id="Front Room Day.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Front Room Night" id="Front Room Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Kitchen Day" id="Kitchen Day.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Kitchen Night" id="Kitchen Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Living Room" id="Living Room.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="My Room" id="My Room.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Outside Day" id="Outside Of The House Day.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Outside Night" id="Outside Of The House Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Staircase Hallway" id="Staircase Hallway.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Trash" id="Trash.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Basement" id="Basement.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Starry Night" id="Night_Starry.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Temecula Townsvile Ruined" id="Temecula Townsvile Ruined.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SageAwesomeGoAniPicScope Galaxy" id="SageAwesomeGoAniPicScope_Galaxy.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Daytime New Home" id="Daytime_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Afternoon New Home" id="Afternoon_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Evening New Home" id="Evening_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nighttime Rise New Home" id="NighttimeRise_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nighttime Mid New Home" id="NighttimeMid_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nighttime Set New Home" id="NighttimeSet_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Morning New Home" id="Morning_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SASAPSA Bedroom Windows Closed" id="SASAPSA_Bedroom_WindowsClosed.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="SASAPSA Bedroom Windows Opened" id="SASAPSA_Bedroom_WindowsOpened.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+        <prop id="a72bxhuy.png" name="Sony Vegas 14.0 Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+	<prop id="grimace_shake__png__by_thetoonsofjosh_dg15dwf-fullview.png" name="Grimace Shake" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+	<prop id="R (4).png" name="Google Chrome Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+	<prop id="R (5).png" name="Erm... What The Sigma" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="OIP (10).jpg" name="Oi Oi Oi" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="YouTube Terminated 2.jpg" name="YouTube Terminated 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="YouTube Terminated 3.png" name="YouTube Terminated 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="5adpyvt9.png" name="YouTube Terminated" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="Wrapper Online Diamond Logo.png" name="Wrapper Online Diamond (Logo 2024)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="04i4r53s.png" name="YouTube Terminated Appeal" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="rmclcdvd.png" name="YouTube Terminated Message" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="z0s41f5p.png" name="Sony Vegas 17.0 Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+        <prop id="2136137 - goanimate Mouthless_Girl Vyond (1).jpg" name="NSFW GoAnimate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3229" money="0" sharing="0" />
+<prop id="157135127.jpg" name="JaydenGoAnimate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3230" money="0" sharing="0" />
+<prop id="2526090_6b45f.png" name="Pomni" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3231" money="0" sharing="0" />
+<prop id="GoAnimate_logo_2013.svg (1).png" name="GoAnimate Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3232" money="0" sharing="0" />
+        <prop id="Sprite-PNG.png" name="Sprite" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3205" money="0" sharing="0" />
+        <prop id="GoAniFire Logo.png" name="GoAniFire Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3205" money="0" sharing="0" />
+        <prop id="171486426.png" name="Github Proile Picture" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3209" money="0" sharing="0" />
+        <prop id="dining_room.png" name="Real Life Dinning Room" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6650" money="0" sharing="0"/>
+<prop id="basement_steps.png" name="Basement Steps" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6651" money="0" sharing="0"/>
+<prop id="bandicam_box.png" name="Bandicam Box" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3235" money="0" sharing="0" />
+<prop id="AVS_Video_Editor_logo.png" name="AVS Video Editor Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3236" money="0" sharing="0" />
+<prop id="Wrapper_offline_2023.png" name="Wrapper Offline Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
+<prop id="cryin.swf" name="Crying" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6652" money="0" sharing="0"/>
+<prop id="scream.swf" name="Screaming" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6653" money="0" sharing="0"/>
+<prop id="Bandicam-official-logo-dark.png" name="Bandicam Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
+<prop id="Kuba Kolodziejczak.jpg" name="Kuba Kolodziejczak" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
+<prop id="Bandicam-official-icon.png" name="Bandicam Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3234" money="0" sharing="0" />
+<prop id="bruh.swf" name="Bruh" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6654" money="0" sharing="0"/>
+<prop id="51N4yYY5x2L._AC_UF1000,1000_QL80_.jpg" name="Pomni Plush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
+<prop id="AMB3_logo-e1717658371522-1296x926-c-center.png" name="Angry Birds 3 Movie Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
+<prop id="Kuba Kolodziejczak Alt Account.jpg" name="Kuba Alt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
+<prop id="GoAnimate Wrapper Logo.png" name="GoAnimate Wrapper Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
+<prop id="pngtree-juicy-burgers-with-a-transparent-background-png-image_6603069.png" name="Hamburger" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3206" money="0" sharing="0" />
+<prop id="dfk5k47-92c9f960-3eb9-48d5-8ded-19ad07b78e99.png" name="Chicken Nuggets" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3207" money="0" sharing="0" />
+<prop id="mcdonald_s_fries_png_2022_by_wcwjunkbox_dfk5m5y-fullview.png" name="French Fries" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3208" money="0" sharing="0" />
+        <prop id="channels4_profile (1).jpg" name="Proile Picture" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3204" money="0" sharing="0" />
+        <sound id="Adam_Running.mp3" name="Adam Running" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
+        <sound id="Slap Oh.mp3" name="Slap Oh" downloadtype="progressive" subtype="soundeffect" duration="1620" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+<sound id="Baby Crying Sound Effect (3).mp3" name="Baby Crying (Short)" downloadtype="progressive" subtype="soundeffect" duration="10136" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+<sound id="Weegee.mp3" name="WEEGEE" downloadtype="progressive" subtype="soundeffect" duration="1128" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+<sound id="Baby Crying Sound Effect (1) (1).mp3" name="Baby Crying (Full)" downloadtype="progressive" subtype="soundeffect" duration="38583" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+<sound id="Baby Crying Sound Effect (2) (1).mp3" name="Baby Crying 2" downloadtype="progressive" subtype="soundeffect" duration="21342" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+        <sound id="INSIDE OUT 2 Audience Reaction Audio  June 15 2024.mp3" name="INSIDE OUT 2 Audience Reaction Audio" downloadtype="progressive" subtype="soundeffect" duration="190119" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+        <sound id="New-Adam-Running.mp3" name="Adam Running 2" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
+        <sound id="tomp3.cc - Sml mario theme.mp3" name="SML Mario Theme" downloadtype="progressive" subtype="bgmusic" duration="167184" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+  <sound id="tomp3.cc - walking sound effect.mp3" name="Walking" downloadtype="progressive" subtype="soundeffect" duration="5878" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+<sound id="tomp3.cc - SpongeBob SquarePants Production Music  The Rake Hornpipe.mp3" name="The Rake Hornpipe" downloadtype="progressive" subtype="bgmusic" duration="68545" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+  <sound id="tomp3.cc - Sneaky Snitch.mp3" name="Sneaky Snitch" downloadtype="progressive" subtype="bgmusic" duration="136647" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+  <sound id="Bob Walking (Credit to Fartnoise9).mp3" name="Bob Walking" downloadtype="progressive" subtype="soundeffect" duration="5721" enable="Y" is_premium="N" aid="31420" money="0" sharing="0"/>
+<sound id="Bob Running.mp3" name="Bob Running" downloadtype="progressive" subtype="soundeffect" duration="4206" enable="Y" is_premium="N" aid="31421" money="0" sharing="0"/>
+<sound id="Rocky Walking.mp3" name="Rocky Walking" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
+<sound id="Rocky Running.mp3" name="Rocky Running" downloadtype="progressive" subtype="soundeffect" duration="3709" enable="Y" is_premium="N" aid="31434" money="0" sharing="0"/>
+<sound id="New Rocky Walking.mp3" name="Rocky Walking 2" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
+<sound id="New Rocky Running.mp3" name="Rocky Running 2" downloadtype="progressive" subtype="soundeffect" duration="3709" enable="Y" is_premium="N" aid="31434" money="0" sharing="0"/>
+<sound id="New Rocky Walking (May 2021).mp3" name="Rocky Walking (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
+<sound id="New Rocky Running (May 2021).mp3" name="Rocky Running (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="3709" enable="Y" is_premium="N" aid="31434" money="0" sharing="0"/>
+<sound id="New Bob Walking.mp3" name="Bob Walking 2" downloadtype="progressive" subtype="soundeffect" duration="5721" enable="Y" is_premium="N" aid="31420" money="0" sharing="0"/>
+<sound id="New Bob Running.mp3" name="Bob Running 2" downloadtype="progressive" subtype="soundeffect" duration="4206" enable="Y" is_premium="N" aid="31421" money="0" sharing="0"/>
+<sound id="New Bob Walking (May 2021).mp3" name="Bob Walking (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="5721" enable="Y" is_premium="N" aid="31420" money="0" sharing="0"/>
+<sound id="New Bob Running (May 2021).mp3" name="Bob Running (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="4206" enable="Y" is_premium="N" aid="31421" money="0" sharing="0"/>
+<sound id="tomp3.cc - Scheming Weasel Faster Kevin Macleod  Background Music HD.mp3" name="Sneaky Snitch" downloadtype="progressive" subtype="bgmusic" duration="89339" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+<sound id="tomp3.cc - Running Sound Effect.mp3" name="Running" downloadtype="progressive" subtype="soundeffect" duration="3918" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
+        <sound id="New-Eve-Walking.mp3" name="Eve Walking 2" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31407" money="0" sharing="0"/>
+  <sound id="New-Eve-Running.mp3" name="Eve Running 2" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
+<sound id="New Eve Walking May 2021 (2).mp3" name="Eve Walking May 2021" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31407" money="0" sharing="0"/>
+  <sound id="New Eve Running May 2021.mp3" name="Eve Running May 2021" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
+        <sound id="New Adam Walking (May 2021).mp3" name="Adam Walking May 2021" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
+<sound id="New Adam Running (May 2021).mp3" name="Adam Running May 2021" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
+<sound id="Adam_Walking.mp3" name="Adam Walking" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
+<sound id="New-Adam-Walking.mp3" name="Adam Walking 2" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
+  <sound id="Eve-Walking.mp3" name="Eve Walking" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31407" money="0" sharing="0"/>
+  <sound id="Eve-Running.mp3" name="Eve Running" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
+</theme>
