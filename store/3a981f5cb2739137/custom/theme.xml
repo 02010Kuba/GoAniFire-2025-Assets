@@ -5231,6 +5231,12 @@
 	<char id="400001076" name="Angel Jerry" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 	    <tags>family,_free,_cat:Jerry Series characters</tags>
 	</char>
+	<char id="400003001" name="Kuba Kolodziejczak" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+	    <tags>family,_free,_cat:Kuba Friends's Characters</tags>
+	</char>
+	<char id="400003002" name="Yugandar'sWorldAnimator" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+	    <tags>family,_free,_cat:Kuba Friends's Characters</tags>
+	</char>
 	<char id="400001077" name="Jackie" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 	    <tags>family,_free,_cat:Jerry Series characters</tags>
 	</char>
