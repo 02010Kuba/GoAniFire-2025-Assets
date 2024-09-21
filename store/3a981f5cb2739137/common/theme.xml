@@ -15692,6 +15692,17 @@
   <prop id="goanimate_logo.swf" name="Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4750" money="0" sharing="0"/>
   <prop id="goanifire_logo.swf" name="Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4750" money="0" sharing="0"/>
   <prop id="GoAniFire Logo V2.swf" name="Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4750" money="0" sharing="0"/>
+  <prop id="5a0c691a82e02d31ecb8d002.png" name="Anger (REALLY MAD ANGRY)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69d882e02d31ecb8d014.png" name="Sadness" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69c382e02d31ecb8d012.png" name="Joy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69a482e02d31ecb8d00f.png" name="Joy And Sadness" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c693d82e02d31ecb8d005.png" name="Disgust" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c694f82e02d31ecb8d007.png" name="Disgust2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c694782e02d31ecb8d006.png" name="Disgust Pushing" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c693082e02d31ecb8d004.png" name="Disgust Disgusted" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c697c82e02d31ecb8d00c.png" name="Fear" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69e682e02d31ecb8d015.png" name="Sadness Holding Ball" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c699982e02d31ecb8d00e.png" name="Joy And Sadness2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
   <prop id="ugc.char.1885278.1885279.swf" name="Police Car" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4750" money="0" sharing="0"/>
   <prop id="ugc.1.swf" name="Mothership - Created By NathanTDA" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4750" money="0" sharing="0"/>
   <prop id="1362684-1536x864-[DesktopNexus.com].swf" name="Green Space w/ Planets" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4750" money="0" sharing="0"/>
@@ -18969,7 +18980,7 @@
     <tag>instruments</tag>
     <tag>musical</tag>
   </sound>
-  <sound id="GTN Theme.mp3" name="Original GoAnimate Theme (NBC)" downloadtype="progressive" subtype="soundeffect" duration="19758" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+  <sound id="GTN Theme.mp3" name="Original GoAnimate Theme (NBC)" downloadtype="progressive" subtype="soundeffect" duration="19879" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
     <tag>musical</tag>
@@ -20648,6 +20659,8 @@
   <sound id="The Mystery Unravels.mp3" name="Mystery Unravels" subtype="bgmusic" duration="148871" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="INSIDE OUT 2 Audience Reaction Audio  June 15 2024.mp3" name="INSIDE OUT 2 Audience Reaction Audio" downloadtype="progressive" subtype="soundeffect" duration="190119" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
   <sound id="Car Starting.mp3" name="Car Start" subtype="soundeffect" duration="3892" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Elmo's Song.mp3" name="Elmo's Song" subtype="bgmusic" duration="45672" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo.mp3" name="Klasky Csupo Robot Logo" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="Unknown Star Super Mario Galaxy 2 Music Extended.mp3" name=" Unknown Star" subtype="bgmusic" duration="929097" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="Space Storm Galaxy Super Mario Galaxy 2.mp3" name=" Space Storm Galaxy" subtype="bgmusic" duration="182125" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="Boss Blitz Galaxy Super Mario Galaxy 2.mp3" name="Boss Blitz Galaxy" subtype="bgmusic" duration="89078" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
