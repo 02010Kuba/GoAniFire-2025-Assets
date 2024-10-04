@@ -8709,6 +8709,7 @@
             <state id="sit" filename="sit.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
+            <state id="coolpose" filename="coolpose.swf"/>
             <state id="taunt" filename="taunt.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
