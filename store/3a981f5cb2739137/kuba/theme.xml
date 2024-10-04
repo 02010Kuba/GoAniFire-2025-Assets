@@ -26,42 +26,6 @@
         <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
         </category>
 	</char>
-        <char id="malleo" name="malleo" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
-        <tag>cat:Super Malleo Bros's Characters</tag>
-        <category name="Actions">
-        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        </category>
-	</char>
-        <char id="pomni_old" name="Pomni (Old)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
-        <tag>cat:Kuba's Characters</tag>
-        <category name="Actions">
-        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        </category>
-	</char>
-        <char id="pomni_clone" name="(NEW) Pomni" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
-        <tag>cat:Kuba's Characters</tag>
-        <category name="Actions">
-        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        </category>
-	</char>
-        <char id="reallifekuba_old" name="Real Life Kuba (Old)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
-        <tag>cat:Kuba's Characters</tag>
-        <category name="Actions">
-        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="sad.swf" name="Sad" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="cry.swf" name="Cry" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        <action id="talk.swf" name="Talk" loop="Y" totalframe="1" enable="Y" aid="60"/>
-        </category>
-	</char>
         <char id="reallifekuba" name="Real Life Kuba" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
         <tag>cat:Kuba's Characters</tag>
         <category name="Actions">
@@ -109,92 +73,7 @@
         <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
         </category>
 	</char>
-        <prop id="msp_movie_poster" name="Movie Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="DM4_Tsr1Sht17_RGB_2SM.jpg" enable="Y" is_premium="Y" aid="11350" money="0" sharing="0">
-    <state id="DM4_Tsr1Sht17_RGB_2SM.jpg" name="DM4" enable="Y" default="Y"/>
-    <state id="OIP (5).jpg" name="Inside Out 2" enable="Y"/>
-    <state id="OIP (6).jpg" name="The Kingdom Of The Planet Of The Apes" enable="Y"/>
-    <state id="OIP (7).jpg" name="Kung Fu Panda 4" enable="Y"/>
-    <state id="OIP (8).jpg" name="The Garfield Movie" enable="Y"/>
-    <state id="OIF.jpg" name="TWISTERS" enable="Y"/>
-    <state id="R.jpg" name="Wonka Movie" enable="Y"/>
-  </prop>
-        <prop id="basketball.swf" name="Basketball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-        <background name="Enterprize Command Room" id="ecr.swf" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
-        <prop id="a72bxhuy.png" name="Sony Vegas 14.0 Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-	<prop id="grimace_shake__png__by_thetoonsofjosh_dg15dwf-fullview.png" name="Grimace Shake" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-	<prop id="R (4).png" name="Google Chrome Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-	<prop id="R (5).png" name="Erm... What The Sigma" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="OIP (10).jpg" name="Oi Oi Oi" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="YouTube Terminated 2.jpg" name="YouTube Terminated 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="YouTube Terminated 3.png" name="YouTube Terminated 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="5adpyvt9.png" name="YouTube Terminated" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="Wrapper Online Diamond Logo.png" name="Wrapper Online Diamond (Logo 2024)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="04i4r53s.png" name="YouTube Terminated Appeal" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="rmclcdvd.png" name="YouTube Terminated Message" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-<prop id="z0s41f5p.png" name="Sony Vegas 17.0 Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
-        <prop id="2136137 - goanimate Mouthless_Girl Vyond (1).jpg" name="NSFW GoAnimate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3229" money="0" sharing="0" />
-<prop id="157135127.jpg" name="JaydenGoAnimate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3230" money="0" sharing="0" />
-<prop id="2526090_6b45f.png" name="Pomni" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3231" money="0" sharing="0" />
-<prop id="GoAnimate_logo_2013.svg (1).png" name="GoAnimate Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3232" money="0" sharing="0" />
-        <prop id="Sprite-PNG.png" name="Sprite" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3205" money="0" sharing="0" />
-        <prop id="GoAniFire Logo.png" name="GoAniFire Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3205" money="0" sharing="0" />
-        <prop id="171486426.png" name="Github Proile Picture" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3209" money="0" sharing="0" />
-        <prop id="dining_room.png" name="Real Life Dinning Room" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6650" money="0" sharing="0"/>
-<prop id="basement_steps.png" name="Basement Steps" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6651" money="0" sharing="0"/>
-<prop id="bandicam_box.png" name="Bandicam Box" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3235" money="0" sharing="0" />
-<prop id="AVS_Video_Editor_logo.png" name="AVS Video Editor Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3236" money="0" sharing="0" />
-<prop id="Wrapper_offline_2023.png" name="Wrapper Offline Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
-<prop id="cryin.swf" name="Crying" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6652" money="0" sharing="0"/>
-<prop id="scream.swf" name="Screaming" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6653" money="0" sharing="0"/>
-<prop id="Bandicam-official-logo-dark.png" name="Bandicam Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
-<prop id="Kuba Kolodziejczak.jpg" name="Kuba Kolodziejczak" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
-<prop id="Bandicam-official-icon.png" name="Bandicam Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3234" money="0" sharing="0" />
-<prop id="bruh.swf" name="Bruh" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6654" money="0" sharing="0"/>
-<prop id="51N4yYY5x2L._AC_UF1000,1000_QL80_.jpg" name="Pomni Plush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
-<prop id="AMB3_logo-e1717658371522-1296x926-c-center.png" name="Angry Birds 3 Movie Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
-<prop id="Kuba Kolodziejczak Alt Account.jpg" name="Kuba Alt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
-<prop id="GoAnimate Wrapper Logo.png" name="GoAnimate Wrapper Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3210" money="0" sharing="0" />
-<prop id="pngtree-juicy-burgers-with-a-transparent-background-png-image_6603069.png" name="Hamburger" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3206" money="0" sharing="0" />
-<prop id="dfk5k47-92c9f960-3eb9-48d5-8ded-19ad07b78e99.png" name="Chicken Nuggets" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3207" money="0" sharing="0" />
-<prop id="mcdonald_s_fries_png_2022_by_wcwjunkbox_dfk5m5y-fullview.png" name="French Fries" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3208" money="0" sharing="0" />
-        <prop id="channels4_profile (1).jpg" name="Proile Picture" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3204" money="0" sharing="0" />
-        <sound id="Adam_Running.mp3" name="Adam Running" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
-        <sound id="Slap Oh.mp3" name="Slap Oh" downloadtype="progressive" subtype="soundeffect" duration="1620" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-<sound id="Baby Crying Sound Effect (3).mp3" name="Baby Crying (Short)" downloadtype="progressive" subtype="soundeffect" duration="10136" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-<sound id="Weegee.mp3" name="WEEGEE" downloadtype="progressive" subtype="soundeffect" duration="1128" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-<sound id="Baby Crying Sound Effect (1) (1).mp3" name="Baby Crying (Full)" downloadtype="progressive" subtype="soundeffect" duration="38583" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-<sound id="Baby Crying Sound Effect (2) (1).mp3" name="Baby Crying 2" downloadtype="progressive" subtype="soundeffect" duration="21342" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-        <sound id="INSIDE OUT 2 Audience Reaction Audio  June 15 2024.mp3" name="INSIDE OUT 2 Audience Reaction Audio" downloadtype="progressive" subtype="soundeffect" duration="190119" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-        <sound id="New-Adam-Running.mp3" name="Adam Running 2" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
-        <sound id="tomp3.cc - Sml mario theme.mp3" name="SML Mario Theme" downloadtype="progressive" subtype="bgmusic" duration="167184" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-  <sound id="tomp3.cc - walking sound effect.mp3" name="Walking" downloadtype="progressive" subtype="soundeffect" duration="5878" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-<sound id="tomp3.cc - SpongeBob SquarePants Production Music  The Rake Hornpipe.mp3" name="The Rake Hornpipe" downloadtype="progressive" subtype="bgmusic" duration="68545" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-  <sound id="tomp3.cc - Sneaky Snitch.mp3" name="Sneaky Snitch" downloadtype="progressive" subtype="bgmusic" duration="136647" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-  <sound id="Bob Walking (Credit to Fartnoise9).mp3" name="Bob Walking" downloadtype="progressive" subtype="soundeffect" duration="5721" enable="Y" is_premium="N" aid="31420" money="0" sharing="0"/>
-<sound id="Bob Running.mp3" name="Bob Running" downloadtype="progressive" subtype="soundeffect" duration="4206" enable="Y" is_premium="N" aid="31421" money="0" sharing="0"/>
-<sound id="Rocky Walking.mp3" name="Rocky Walking" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
-<sound id="Rocky Running.mp3" name="Rocky Running" downloadtype="progressive" subtype="soundeffect" duration="3709" enable="Y" is_premium="N" aid="31434" money="0" sharing="0"/>
-<sound id="New Rocky Walking.mp3" name="Rocky Walking 2" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
-<sound id="New Rocky Running.mp3" name="Rocky Running 2" downloadtype="progressive" subtype="soundeffect" duration="3709" enable="Y" is_premium="N" aid="31434" money="0" sharing="0"/>
-<sound id="New Rocky Walking (May 2021).mp3" name="Rocky Walking (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
-<sound id="New Rocky Running (May 2021).mp3" name="Rocky Running (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="3709" enable="Y" is_premium="N" aid="31434" money="0" sharing="0"/>
-<sound id="New Bob Walking.mp3" name="Bob Walking 2" downloadtype="progressive" subtype="soundeffect" duration="5721" enable="Y" is_premium="N" aid="31420" money="0" sharing="0"/>
-<sound id="New Bob Running.mp3" name="Bob Running 2" downloadtype="progressive" subtype="soundeffect" duration="4206" enable="Y" is_premium="N" aid="31421" money="0" sharing="0"/>
-<sound id="New Bob Walking (May 2021).mp3" name="Bob Walking (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="5721" enable="Y" is_premium="N" aid="31420" money="0" sharing="0"/>
-<sound id="New Bob Running (May 2021).mp3" name="Bob Running (May 2021)" downloadtype="progressive" subtype="soundeffect" duration="4206" enable="Y" is_premium="N" aid="31421" money="0" sharing="0"/>
-<sound id="tomp3.cc - Scheming Weasel Faster Kevin Macleod  Background Music HD.mp3" name="Sneaky Snitch" downloadtype="progressive" subtype="bgmusic" duration="89339" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-<sound id="tomp3.cc - Running Sound Effect.mp3" name="Running" downloadtype="progressive" subtype="soundeffect" duration="3918" enable="Y" is_premium="N" aid="0" money="0" sharing="0"/>
-        <sound id="New-Eve-Walking.mp3" name="Eve Walking 2" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31407" money="0" sharing="0"/>
-  <sound id="New-Eve-Running.mp3" name="Eve Running 2" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
-<sound id="New Eve Walking May 2021 (2).mp3" name="Eve Walking May 2021" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31407" money="0" sharing="0"/>
-  <sound id="New Eve Running May 2021.mp3" name="Eve Running May 2021" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
-        <sound id="New Adam Walking (May 2021).mp3" name="Adam Walking May 2021" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
-<sound id="New Adam Running (May 2021).mp3" name="Adam Running May 2021" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
-<sound id="Adam_Walking.mp3" name="Adam Walking" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
-<sound id="New-Adam-Walking.mp3" name="Adam Walking 2" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31406" money="0" sharing="0"/>
-  <sound id="Eve-Walking.mp3" name="Eve Walking" downloadtype="progressive" subtype="soundeffect" duration="6766" enable="Y" is_premium="N" aid="31407" money="0" sharing="0"/>
-  <sound id="Eve-Running.mp3" name="Eve Running" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
-<prop id="Wrapper-Offline-Logo-Vector.svg-.png" name="Wrapper Offline Logo (2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+        <prop id="Wrapper-Offline-Logo-Vector.svg-.png" name="Wrapper Offline Logo (2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="wrapper_online_diamond_logo__2024__by_codyanimate74_dhsjfcn-fullview.png" name="Wrapper Online Diamond Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="d0f411f624ecc7fcbb4070a5d78206bf_orig.png" name="GoAniFire (2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="76627087.png" name="Wrapper Offline (Icon)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
@@ -284,4 +163,30 @@
 <prop id="channels4_profile.jpg" name="Kuba Kolodziejczak's Channel331" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="bandicam 2024-07-25 18-39-05-387.jpg" name="Kuba Kolodziejczak 9" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="bandicam 2024-08-06 21-41-29-725.jpg" name="Kuba Kolodziejczak 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="GoAniFire Demo Thumbnail Community Library.jpg" name="GoAniFire Demo Thumbnail" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="The_Andersons_House.png" name="The Anderson's House" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="The Many Adventure's Of The Creator And Friends.png" name="The Many Adventure's Of The Creator And Friends" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo.mp3" name="Klasky Csupo Robot Logo" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo (Vocoder).mp3" name="Klasky Csupo Robot Logo (Vocoder)" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<effect id="goani_new_flash_effect_28_invertcolor.swf" type="ANIME" resize="false" move="false" name="Inverted Color" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<sound id="acid_jazz_vocoder.mp3" name="Club Jazz (Vocoder)" subtype="bgmusic" duration="33216" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Coffin Dance (EARRAPE).mp3" name="Coffin Dance" subtype="bgmusic" duration="24336" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Elmo's Song.mp3" name="Elmo's Song" subtype="bgmusic" duration="45672" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Coffin Dance.mp3" name="Coffin Dance (FIXED)" subtype="bgmusic" duration="24336" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="EARRAPE MUSIC.mp3" name="EARRAPE MUSIC" subtype="bgmusic" duration="186552" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Electric chair execution (sound effect).mp3" name="Electric chair execution" subtype="soundeffect" duration="16752" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Bez nazwy.png" name="Execution Chair" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="MP5 Shooting.mp3" name="MP5 Shooting" subtype="soundeffect" duration="835" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorOpen3.mp3" name="Door Open" subtype="soundeffect" duration="574" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorClose0.mp3" name="Door Close" subtype="soundeffect" duration="679" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorLocked.mp3" name="Door Locked" subtype="soundeffect" duration="1097" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2.mp3" name="Door Locked 2" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2 (LOUD).mp3" name="Door Locked (LOUD)" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2 (SUPER LOUD).mp3" name="Door Locked (SUPER LOUD)" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Up Sound Effect (EARRAPE).mp3" name="Angry German Kid Beating Up Sound Effect (EARRAPE)" subtype="soundeffect" duration="12460" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Sound Effect.mp3" name="AGK Beating Up" subtype="soundeffect" duration="12456" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="AGK Beating Sound Effect.mp3" name="AGK Beating Sound Effect" subtype="soundeffect" duration="12456" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="My Teardrop OST.mp3" name="My Teardrop OST." subtype="bgmusic" duration="85176" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="My Teardrop OST Original.mp3" name="My Teardrop OST Original" subtype="bgmusic" duration="230112" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="SML Mario Theme.mp3" name="SML Mario Theme" subtype="bgmusic" duration="167112" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 </theme>
