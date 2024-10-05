@@ -26048,6 +26048,9 @@
     <component type="faceshape" id="malleo" path="malleo" name="malleo" thumb="thumbnail.swf"  money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="faceshape" id="malleo_fixed" path="malleo_fixed" name="malleo_fixed" thumb="thumbnail.swf"  money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="faceshape" id="robotnik" path="robotnik" name="robotnik" thumb="thumbnail.swf"  money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
