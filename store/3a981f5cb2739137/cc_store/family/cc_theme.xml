@@ -21590,6 +21590,9 @@
     <component type="facedecoration" id="poland" path="poland" name="poland" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="facedecoration" id="466" path="466" name="466" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="facedecoration" id="poland_old" path="poland_old" name="poland_old" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
@@ -26040,6 +26043,9 @@
         <state id="default" filename="default.swf"/>
     </component>
     <component type="faceshape" id="weegee_new" path="weegee_new" name="weegee_new" thumb="thumbnail.swf"  money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="malleo" path="malleo" name="malleo" thumb="thumbnail.swf"  money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="faceshape" id="robotnik" path="robotnik" name="robotnik" thumb="thumbnail.swf"  money="0" sharing="0" enable="Y">
