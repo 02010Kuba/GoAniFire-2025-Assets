@@ -21502,6 +21502,20 @@
             <state id="sit" filename="sit.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
+        <component type="lower_body" id="rocky_010_remade" path="rocky_010_remade" name="rocky_010_remade" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+            <state id="default" filename="default.swf"/>
+            <state id="excited" filename="excited.swf"/>
+            <state id="fearful" filename="fearful.swf"/>
+            <state id="kneel_down" filename="kneel_down.swf"/>
+            <state id="laugh" filename="laugh.swf"/>
+            <state id="laugh_point" filename="laugh_point.swf"/>
+            <state id="lie_down" filename="lie_down.swf"/>
+            <state id="run" filename="run.swf"/>
+            <state id="sad" filename="sad.swf"/>
+            <state id="show_off" filename="show_off.swf"/>
+            <state id="sit" filename="sit.swf"/>
+            <state id="walk" filename="walk.swf"/>
+        </component>
         <component type="lower_body" id="rocky_a003" path="rocky_a003" name="rocky_a003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
